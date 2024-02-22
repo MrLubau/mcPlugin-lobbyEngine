@@ -1,4 +1,5 @@
-# Development comments
+# Development notes
+
 
 Private Lobby-Engine plugin (Spigot)
 Version: 1.20.4
@@ -6,7 +7,10 @@ Java: 17
 Kotlin: Maven
 
 
+
+
 *Note: The plugin is made for a separate server connected to Bungeecord and MYSQL database!!!
+
 
 ## TODO:
     - Cometics menu (Custom hats)

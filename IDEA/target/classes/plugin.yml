@@ -1,0 +1,13 @@
+name: lobbyengine
+version: '1.0-SNAPSHOT'
+main: eu.mrlubau.lobbyengine.Lobby_engine
+api-version: '1.20'
+depend:
+  - PlaceholderAPI
+commands:
+  edit:
+    description: Enable edit mode
+  setspawn:
+    description: Sets the place where people spawn after connecting
+  engine:
+    description: Lists plugin data
